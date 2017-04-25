@@ -5,8 +5,6 @@ tags: [Blog]
 
 ---
 
-### How to build your own blog.
-
 install nodejs
 [node js](https://nodejs.org/en/)
 
@@ -17,9 +15,10 @@ run `hexo init` to create a hexo blog
 
 run `hexo s` to preview
 
-`hexo n happy-day` to create a new post
+`hexo new hello-hexo` to create a new post
 
-edit `/_config.yml` to change your theme
+
+edit `_config.yml` to change your theme
 
 register github account `yaaaaaan`
 
