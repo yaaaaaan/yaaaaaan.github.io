@@ -38,7 +38,7 @@ hexo s
 ---
 title: hello-hexo
 date: 2017-04-25 08:53:47
-tags: [Blog]
+tags: 
 
 ---
 
@@ -79,6 +79,7 @@ deploy:
 
 ## 部署并查看效果
 在博客目录下执行 `hexo g -d` 会生成博客的静态页面并部署到配置的`Github`仓库中
+
 之后通过浏览器打开`https://yaaaaaan.github.io`即可看到博客的效果
 
 玩的开心 (•̀ᴗ•́)و ̑̑
