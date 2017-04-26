@@ -3,7 +3,7 @@ menu:
     Archive: /archives/
     Weibo: http://weibo.com/
     GitHub: https://github.com/yaaaaaan
-    Rss: /atom.xml
+    # Rss: /atom.xml
 
 favicon: /favicon.png
 logo: /favicon.png
@@ -19,4 +19,4 @@ cloudTie:
 ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2017
